@@ -1,8 +1,8 @@
 {
-  "MessagesOverLast2Days": {
-    "days": [
-      250,
-      154
+  "name": {
+    "string": [
+      "Thor",
+      "Loki"
     ]
   }
 }
