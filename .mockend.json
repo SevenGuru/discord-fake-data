@@ -1,8 +1,8 @@
 {
   "MessagesOverLast2Days": {
-    "days": {
-      "1": 250,
-      "2": 154
-    }
+    "days": [
+      250,
+      154
+    ]
   }
 }
